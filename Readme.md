@@ -51,6 +51,14 @@
 3. Продемонстрировать возможность чтения и записи файла изнутри пода. 
 4. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
 
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/mk8s%20nfs%20enabled.jpg)
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/nfs.jpg)
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/photo_1_2025-10-14_23-07-26.jpg)
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/photo_2_2025-10-14_23-07-26.jpg)
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/photo_3_2025-10-14_23-07-26.jpg)
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/photo_4_2025-10-14_23-07-26.jpg)
+![1](https://github.com/Chika1703/2.2_k8s/blob/main/img/photo_5_2025-10-14_23-07-26.jpg)
+
 ------
 
 ### Правила приёма работы
